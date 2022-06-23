@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 79,
-    "timeWeek": 79,
-    "timeMonth": 79,
-    "timeYear": 79,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "sinta3",
     "url": "https://sinta3.computradetech.com",
     "icon": "https://favicons.githubusercontent.com/sinta3.computradetech.com",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1571,
-    "timeDay": 1571,
-    "timeWeek": 1571,
-    "timeMonth": 1571,
-    "timeYear": 1571,
+    "time": 1496,
+    "timeDay": 1496,
+    "timeWeek": 1496,
+    "timeMonth": 1496,
+    "timeYear": 1496,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1608,
-    "timeDay": 1608,
-    "timeWeek": 1608,
-    "timeMonth": 1608,
-    "timeYear": 1608,
+    "time": 1663,
+    "timeDay": 1663,
+    "timeWeek": 1663,
+    "timeMonth": 1663,
+    "timeYear": 1663,
     "dailyMinutesDown": {}
   },
   {
