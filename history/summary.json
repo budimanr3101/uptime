@@ -4,19 +4,19 @@
     "url": "https://sinta3.computradetech.com",
     "icon": "https://favicons.githubusercontent.com/sinta3.computradetech.com",
     "slug": "sinta3-https-sinta3-computradetech-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1536,
-    "timeDay": 1771,
-    "timeWeek": 1489,
-    "timeMonth": 1536,
-    "timeYear": 1536,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1530,
+    "timeDay": 1609,
+    "timeWeek": 1484,
+    "timeMonth": 1530,
+    "timeYear": 1530,
     "dailyMinutesDown": {
-      "2022-07-06": 1
+      "2022-07-06": 20
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sicti.computradetech.com",
     "icon": "https://favicons.githubusercontent.com/sicti.computradetech.com",
     "slug": "sicti-https-sicti-computradetech-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1570,
-    "timeDay": 1768,
-    "timeWeek": 1568,
-    "timeMonth": 1570,
-    "timeYear": 1570,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1573,
+    "timeDay": 1693,
+    "timeWeek": 1574,
+    "timeMonth": 1573,
+    "timeYear": 1573,
     "dailyMinutesDown": {
-      "2022-07-06": 1
+      "2022-07-06": 19
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://sinta.computradetech.com",
     "icon": "https://favicons.githubusercontent.com/sinta.computradetech.com",
     "slug": "sinta2-https-sinta-computradetech-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2521,
-    "timeDay": 2361,
-    "timeWeek": 2351,
-    "timeMonth": 2521,
-    "timeYear": 2521,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 2520,
+    "timeDay": 2437,
+    "timeWeek": 2371,
+    "timeMonth": 2520,
+    "timeYear": 2520,
     "dailyMinutesDown": {
-      "2022-07-06": 0
+      "2022-07-06": 19
     }
   }
 ]
